@@ -4,17 +4,17 @@ header-img: "img/green.jpg"
 tagline: "cn"  
 description: "这是我的博客"  # 一句话描述你的博客
 baseurl: ""
-url: "http://up.tw.kg"  # 此处填写你的博客地址 
+url: "https://up.tw.kg"  # 此处填写你的博客地址 
 
 # About/contact
 owner: 
   name: "jzy" # 填写作者信息：名字
-  email: git.jzycloud.dpdns.org # 填写作者信息：邮箱
+  email: git@jzycloud.dpdns.org # 填写作者信息：邮箱
   bio: "你的博客描述" # 填写作者信息：博客描述
 
 # Data
-gavatar: img/favicon.png # 浏览器地址栏小图标，可自定义更改
-favicon: img/favicon.png # 浏览器地址栏小图标，可自定义更改
+gavatar: http://114514yyds.dpdns.org/img_20251222_095627_69495c1b108d5.png # 浏览器地址栏小图标，可自定义更改
+favicon: http://114514yyds.dpdns.org/img_20251222_095627_69495c1b108d5.png # 浏览器地址栏小图标，可自定义更改
 
 douban_username:  # 你的豆瓣id
 twitter_username: 
